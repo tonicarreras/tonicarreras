@@ -4,12 +4,12 @@
 Nací en Esplugues de Llobregat (Barcelona) el 7 de febrero de 1986. Desde pequeño, he sentido un profundo interés por la tecnología, pero fue en 2020 cuando descubrí mi pasión por la programación. En la actualidad, soy padre de dos hijos, lo que limita mi tiempo libre, pero siempre encuentro momentos para sumergirme en este emocionante mundo ⚡.
 
 ### 🔭 Experiencia en:
-Mantenimiento y desarrollo de una aplicación legacy en PHP 5.4.
-Integración de servicios web externos en una API mediante Symfony.
-Desarrollo de una aplicación con Symfony (API) y Vue.
-Implementación y gestión de despliegues en diferentes entornos utilizando GitFlow.
-Creación de sitios web utilizando HTML, CSS y JavaScript.
-Resolución de problemas y una gran atención al detalle.
+- Mantenimiento y desarrollo de una aplicación legacy en PHP 5.4.
+- Integración de servicios web externos en una API mediante Symfony.
+- Desarrollo de una aplicación con Symfony (API) y Vue.
+- Implementación y gestión de despliegues en diferentes entornos utilizando GitFlow.
+- Creación de sitios web utilizando HTML, CSS y JavaScript.
+- Resolución de problemas y una gran atención al detalle.
 
 ### 🌱 Mis intereses
 Mi especialización se centra en PHP y JS, pero siempre estoy ávido de aprender nuevas tecnologías y adoptar buenas prácticas. Algunos de mis principales intereses incluyen:
