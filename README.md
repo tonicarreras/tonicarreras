@@ -1,7 +1,5 @@
 ## ¡Hola 👋 soy Antonio Carreras Alarcón!
-
-### 💬 Acerca de mí
-Nací en Esplugues de Llobregat (Barcelona) el 7 de febrero de 1986. Desde pequeño, he sentido un profundo interés por la tecnología, pero fue en 2020 cuando descubrí mi pasión por la programación. En la actualidad, soy padre de dos hijos, lo que limita mi tiempo libre, pero siempre encuentro momentos para sumergirme en este emocionante mundo ⚡.
+`Aquí descubrirás un poco más sobre mí.`
 
 ### 🔭 Experiencia en:
 - Mantenimiento y desarrollo de una aplicación legacy en PHP 5.4.
@@ -24,6 +22,6 @@ Algunos de mis principales intereses incluyen:
 Si deseas ponerte en contacto conmigo, puedes hacerlo a través de:
 
 - Correo electrónico: antoniocarrerasalarcon@gmail.com
-- LinkedIn: [https://www.linkedin.com/in/antoniocarrerasalarcon/]
+- LinkedIn: https://www.linkedin.com/in/antoniocarrerasalarcon/
 
 ### ¡Gracias por visitar mi perfil! 😄.
